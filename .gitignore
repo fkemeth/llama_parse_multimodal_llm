@@ -1,2 +1,7 @@
 .venv/
 .DS_Store
+*.log
+*.fls
+*.aux
+*.fdb_latexmk
+*.synctex.gz
