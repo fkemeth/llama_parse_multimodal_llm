@@ -38,7 +38,4 @@ The project is organized as follows:
    - Create a `.env` file in the project root
    - Add your API key: `OPENAI_API_KEY=your_api_key_here`
 
-## Usage
-
-To process a document and ask questions:
 
